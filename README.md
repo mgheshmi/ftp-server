@@ -6,4 +6,4 @@ After building the project with CMake, run the ftp_server executable file from t
 
 For example: ./ftp_server 21 ~/Desktop/ftp_files/
 
-You can use ftp client software such as FileZilla to connect to the ftp server.
+You can use any ftp client software such as FileZilla to connect to the ftp server.
