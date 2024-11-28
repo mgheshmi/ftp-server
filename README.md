@@ -1,7 +1,8 @@
 # ftp-server
 An FTP server program in the Linux environment, written in C++ and implementing most of the functions of the FTP protocol.
 After building the project with CMake, run the ftp_server executable file from the build folder as follows in the terminal:
-./ftp_server <port-number> <ftp-files-host-path>
+
+./ftp_server port_number ftp_files_host_path
 
 For example: ./ftp_server 21 ~/Desktop/ftp_files/
 
